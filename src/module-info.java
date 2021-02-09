@@ -1,3 +1,0 @@
-module DesignPatterns {
-	requires junit;
-}
